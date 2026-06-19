@@ -1,4 +1,4 @@
-# Retail-Sales-Profitability-Dashboard-PowerBI
+# Retail-Sales-Profitability-Dashboard-PowerBI-SQL
 
 Retail Sales & Profitability Dashboard
 
